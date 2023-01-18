@@ -1,5 +1,5 @@
-let result = 10 + 20;
-console.log(result);
+// let result = 10 + 20;
+// console.log(result);
 
 // 10 + 20은 연산을 통해 새로운 값 30을 생성하고
 // 메모리 공간에 저장된 값 30일 다시 읽어 들여 재사용할 수 있도록
